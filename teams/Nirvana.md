@@ -1,5 +1,5 @@
 ## Team name
-Fill team name here
+Fill team name her
 ## Team members
 Fill team members name here
 

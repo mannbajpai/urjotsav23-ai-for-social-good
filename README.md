@@ -13,3 +13,16 @@
 - ### _Tech Stack:_
   Participants have the freedom to use any tech stack of their choice. They are also permitted to use any AI APIs, such as the OpenAI API, for their project.
 
+---
+
+# Hackathon Guidelines
+- Fork This Repository
+- Clone Your Repository
+    ```
+    git clone https://github.com/your-username/urjotsav23-ai-for-social-good
+    ```
+- Then create a your-team-name.md in /teams in the format of SAMPLE.md
+
+- Make the required changes and commit the changes
+
+- Create a pull request 

@@ -1,12 +1,13 @@
 ## Team name
-Fill team name here
+Plant-ID
+
 ## Team members
-Fill team members name here
+Jaimin Godhani(21CS3025)
+Bingi Adhitya Rajesh(21CS3011)
+Naveen Karaka(21CS3026)
 
 ## Idea
-Fill idea here
+Medicinal Plant Identification with Machine Learning
 
 ## Repository link
-
-
-## Any other relevant link
+https://github.com/Jai0401/team-plant-id.git

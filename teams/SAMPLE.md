@@ -2,9 +2,9 @@
 Plant-ID
 
 ## Team members
-Jaimin Godhani(21CS3025)
-Bingi Adhitya Rajesh(21CS3011)
-Naveen Karaka(21CS3026)
+-Jaimin Godhani(21CS3025)
+-Bingi Adhitya Rajesh(21CS3011)
+-Naveen Karaka(21CS3026)
 
 ## Idea
 Medicinal Plant Identification with Machine Learning

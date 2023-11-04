@@ -3,6 +3,7 @@ Lumos
 
 ## Team members
 1. Pathikreet Chowdhury
+2. Jasteg Singh
 
 ## Idea
 A real time sign language detector and translator bridging the gaps between the disabled and non-disabled using AI , NLP and Computer Vision.
